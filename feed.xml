@@ -3,10 +3,30 @@
     <title>the Auto Darkening Welding Helmets supply</title>
     <link href="http://weldmask.com/feed.xml" rel="self" />
     <link href="http://weldmask.com" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2019-12-30T16:35:03+08:00</updated>
     <author>
         <name>WeldMask</name>
     </author>
     <id>http://weldmask.com</id>
 
+    <entry>
+        <title>測試一</title>
+        <author>
+            <name>WeldMask</name>
+        </author>
+        <link href="http://weldmask.com/ce-shi-yi.html"/>
+        <id>http://weldmask.com/ce-shi-yi.html</id>
+
+        <updated>2019-12-30T15:07:13+08:00</updated>
+            <summary>
+                <![CDATA[
+                    只是要做測試用
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                只是要做測試用
+            ]]>
+        </content>
+    </entry>
 </feed>
