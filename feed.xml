@@ -3,12 +3,32 @@
     <title>the Auto Darkening Welding Helmets supply</title>
     <link href="http://weldmask.com/feed.xml" rel="self" />
     <link href="http://weldmask.com" />
-    <updated>2020-03-06T16:27:23+08:00</updated>
+    <updated>2020-03-20T16:16:00+08:00</updated>
     <author>
         <name>WeldMask</name>
     </author>
     <id>http://weldmask.com</id>
 
+    <entry>
+        <title>WELDMASK+ 730s 變色銲接面罩</title>
+        <author>
+            <name>WeldMask</name>
+        </author>
+        <link href="http://weldmask.com/weldmask-730s-bian-se-han-jie-mian-zhao.html"/>
+        <id>http://weldmask.com/weldmask-730s-bian-se-han-jie-mian-zhao.html</id>
+
+        <updated>2020-03-20T16:15:28+08:00</updated>
+            <summary>
+                <![CDATA[
+                    [{"id":1555941466744,"type":"publii-paragraph","content":"WELDMASK+ 730s 變色銲接面罩","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1584692100955,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                [{"id":1555941466744,"type":"publii-paragraph","content":"WELDMASK+ 730s 變色銲接面罩","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1584692100955,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>測試一</title>
         <author>
